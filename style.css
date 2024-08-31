@@ -21,7 +21,7 @@ main {
     flex-direction: column;
     justify-content: center;
     width: 85%;
-    max-width: 350px;
+    max-width: 400px;
     border: 1px solid hsl(0, 0%, 7%);
     padding: 1.3rem;
     border-radius: 10px;
