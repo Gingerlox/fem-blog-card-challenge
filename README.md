@@ -25,7 +25,7 @@ Users should be able to:
 
 ### What I learned
 
-This challgen was mostly simple, however resizing the font based on screen size without media queries and vertically aliigning the profile image as a ::before took a while to figure out. Linked some resources below detailing what helped me with this.
+This challenge was mostly simple, however resizing the font based on screen size without media queries and vertically aliigning the profile image as a ::before took a while to figure out. Linked some resources below detailing what helped me with this.
 
 ### Continued development
 
